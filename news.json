@@ -1,0 +1,11 @@
+{
+    "id": "bbc-news", 
+    "name" : "BBC News",
+    "author": "Jane Smith",
+    "title": "Another Important Event", 
+    "description": "Details about another important event happening around the world.",
+    "url":"https://www.bbc.com/news/world/2024/important-event",
+    "urlToImage": "https://cdn.bbc.com/news/images/important-event.jpg&quot",
+    "publishedAt":"2024-09-08T10:20:00Z&quot", 
+    "content": "This is the full article content for the important event happening globally.&quot"
+}
