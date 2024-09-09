@@ -1,11 +1,68 @@
-{
-    "id": "bbc-news", 
-    "name" : "BBC News",
-    "author": "Jane Smith",
-    "title": "Another Important Event", 
-    "description": "Details about another important event happening around the world.",
-    "url":"https://www.bbc.com/news/world/2024/important-event",
-    "urlToImage": "https://cdn.bbc.com/news/images/important-event.jpg&quot",
-    "publishedAt":"2024-09-08T10:20:00Z&quot", 
-    "content": "This is the full article content for the important event happening globally.&quot"
-}
+[
+    {
+        "id": "1",
+        "name": "BBC News",
+        "author": "Jane Smith",
+        "title": "Another Important Event",
+        "description": "Details about another important event happening around the world.",
+        "url": "https://www.bbc.com/news/world/2024/important-event",
+        "urlToImage": "https://cdn.bbc.com/news/images/important-event.jpg",
+        "publishedAt": "2024-09-08T10:20:00Z",
+        "content": "This is the full article content for the important event happening globally."
+    },
+    {
+        "id": "2",
+        "name": "CNN",
+        "author": "John Doe",
+        "title": "Breaking: Major Discovery in Science",
+        "description": "A groundbreaking discovery in the field of physics has been made.",
+        "url": "https://www.cnn.com/science/major-discovery",
+        "urlToImage": "https://cdn.cnn.com/science/images/discovery.jpg",
+        "publishedAt": "2024-09-07T14:45:00Z",
+        "content": "This article discusses a major discovery in the field of science and its implications."
+    },
+    {
+        "id": "3",
+        "name": "Al Jazeera",
+        "author": "Emily Thompson",
+        "title": "Global Climate Change Impact",
+        "description": "A deep dive into how climate change is affecting global economies.",
+        "url": "https://www.aljazeera.com/climate-impact",
+        "urlToImage": "https://cdn.aljazeera.com/climate-impact.jpg",
+        "publishedAt": "2024-09-06T09:30:00Z",
+        "content": "Climate change is having widespread effects across the globe, affecting economies, wildlife, and more."
+    },
+    {
+        "id": "4",
+        "name": "Reuters",
+        "author": "Michael Green",
+        "title": "Stock Market Hits Record High",
+        "description": "The global stock market hits an all-time high amidst economic growth.",
+        "url": "https://www.reuters.com/business/stock-market-high",
+        "urlToImage": "https://cdn.reuters.com/stock-market.jpg",
+        "publishedAt": "2024-09-05T12:00:00Z",
+        "content": "The stock market reached unprecedented heights as the economy continues to grow."
+    },
+    {
+        "id": "5",
+        "name": "The Guardian",
+        "author": "Sarah Lee",
+        "title": "New Renewable Energy Technology Unveiled",
+        "description": "A new breakthrough in renewable energy could change the future of energy consumption.",
+        "url": "https://www.theguardian.com/renewable-energy",
+        "urlToImage": "https://cdn.theguardian.com/renewable-energy.jpg",
+        "publishedAt": "2024-09-04T16:15:00Z",
+        "content": "This article discusses the unveiling of new renewable energy technology and its potential impact on the world."
+    },
+    {
+        "id": "6",
+        "name": "New York Times",
+        "author": "Alex Johnson",
+        "title": "Political Turmoil in Europe",
+        "description": "A detailed analysis of the ongoing political instability in several European countries.",
+        "url": "https://www.nytimes.com/world/europe/political-turmoil",
+        "urlToImage": "https://cdn.nytimes.com/political-turmoil.jpg",
+        "publishedAt": "2024-09-03T08:00:00Z",
+        "content": "This article delves into the causes and consequences of political instability across Europe."
+    }
+]
