@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     async function fetchNews() {
         const response = await fetch('https://newsapi.org/v2/everything?q=technology&apiKey=d690b0a4b7b7428993d2c01784326548');
         const data = await response.json();
-        newsData = data.articles; // Adjust based on the actual API response structure
+        newsData = data.articles;
         displayNews();
         setupPagination();
     }
